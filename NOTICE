@@ -2,9 +2,9 @@ THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 ============================================================
 
 Project: verible
-Generated: 2026-09-18
+Generated: 2026-10-18
 Tool: SCANOSS (snippet detection with License dataset)
-Components: 7
+Components: 8
 
 This file lists all third-party software components detected
 in this repository, along with their licenses and copyright
@@ -14,7 +14,7 @@ notices as required by those licenses.
 
 LICENSE SUMMARY
 
-  Apache-2.0: 7 component(s)
+  Apache-2.0: 8 component(s)
   Apache-2.0 AND BSD-3-Clause: 1 component(s)
   Apache-2.0 AND NCSA: 1 component(s)
   BSD-3-Clause: 2 component(s)
@@ -56,6 +56,7 @@ COMPONENT ATTRIBUTIONS
   Source: https://proxy.golang.org/github.com/chipsalliance/verible/@v/v0.0.0-20260802155824-a5ddf0f05a66.zip
   PURL: pkg:golang/github.com/chipsalliance/verible
   Copyright:
+    Copyright 2007-2016 University of Illinois at Urbana-Champaign
     Copyright 2011 IETF Trust and the persons identified as authors of the code
     Copyright 2017-2020 The Verible Authors
     Copyright 2017-2023 The Verible Authors
@@ -76,7 +77,10 @@ COMPONENT ATTRIBUTIONS
   Source: https://github.com/chipsalliance/verible
   PURL: pkg:github/chipsalliance/verible
   Copyright:
-    Copyright 2007-2016 University of Illinois at Urbana-Champaign.
+    Copyright 1991 -   Stichting Mathematisch Centrum Amsterdam
+    Copyright 1991-1995 Stichting Mathematisch Centrum Amsterdam
+    Copyright 1995-2001 Corporation for National Research Initiatives; All Rights
+    Copyright 2007-2016 University of Illinois at Urbana-Champaign
     Copyright 2011 IETF Trust and the persons identified as
     Copyright 2011 IETF Trust and the persons identified as authors of the code
     Copyright 2017-2020 The Verible Authors
@@ -105,23 +109,44 @@ COMPONENT ATTRIBUTIONS
   Source: https://github.com/google/verible
   PURL: pkg:github/google/verible
   Copyright:
+    Copyright 1991 -   Stichting Mathematisch Centrum Amsterdam
     Copyright 1991 - 1995 ; Stichting Mathematisch Centrum Amsterdam;
-    Copyright 2007-2016 University of Illinois at Urbana-Champaign.
+    Copyright 1995-2001 Corporation for National Research Initiatives; All Rights
+    Copyright 2007-2016 University of Illinois at Urbana-Champaign
     Copyright 2011 IETF Trust and the persons identified as authors of the code
     Copyright 2017-2020 The Verible Authors
     Copyright 2017-2021 The Verible Authors
     Copyright 2017-2023 The Verible Authors
     Copyright 2021 The Verible Authors
+    Copyright (c) 2011 IETF Trust
+    Copyright (c) 2011 IETF Trust and the persons identified as
     Copyright 2017-2022 The Verible Authors
+    Copyright 2018 The diff-match-patch
     Copyright 2018 The diff-match-patch Authors
     Copyright 2020 Google LLC.
     Copyright 2020 The Verible Authors
     Copyright 2020-2025 The Verible Authors
+    Copyright 2022 The Verible Authors
     Copyright 2023 The Verible Authors
     Copyright 2024 The Verible Authors
     Copyright copyright owner or entity authorized by
     Copyright copyright owner or entity authorized by the copyright
   License: Apache-2.0, Apache-2.0 AND BSD-3-Clause, Apache-2.0 AND NCSA, Python-2.0
+
+  verible.mirror/verible-v0.0
+  Version: 0.0-4145-g7bd8603b
+  Source: https://sourceforge.net/projects/verible.mirror/verible-v0.0
+  PURL: pkg:sourceforge/verible.mirror/verible-v0.0
+  Copyright:
+    Copyright 2007-2016 University of Illinois at Urbana-Champaign
+    Copyright 2011 IETF Trust and the persons identified as authors of the code
+    Copyright 2017-2020 The Verible Authors
+    Copyright 2017-2021 The Verible Authors
+    Copyright 2017-2022 The Verible Authors
+    Copyright 2017-2026 The Verible Authors
+    Copyright 2018 The diff-match-patch Authors
+    Copyright 2018 The diff-match-patch
+  License: Apache-2.0
 
 ------------------------------------------------------------
 
